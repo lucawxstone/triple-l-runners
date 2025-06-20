@@ -1,6 +1,6 @@
 # Triple L Runners 🏃‍♂️
 
-A beautiful running dashboard for Luca, Louis & Lewis.
+A running dashboard for Luca, Louis & Lewis.
 
 ## Features
 - Track runs with detailed metrics
